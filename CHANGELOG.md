@@ -1,5 +1,12 @@
 # Roo Code Changelog
 
+## 3.18.3
+
+### Patch Changes
+
+- Convert bootstrap script to esm
+- Fix max tokens in task header
+
 ## [3.18.2] - 2025-05-23
 
 - Fix vscode-material-icons in the filer picker
